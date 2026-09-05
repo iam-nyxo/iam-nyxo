@@ -1,16 +1,17 @@
-# ⚡ Hi, I'm Nyxo  
+<div align="center">
 
-> **Software Engineering Undergraduate | Tech Builder**  
-> *Exploring full-stack development, software architecture, and modern technologies.*
+<!-- Animated Cyber Banner -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zyd2tzNXBnMWZ5MncwOHdqOHhyeWV0bjBqOWdlenRwMHJvd2w3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIY/giphy.gif" width="100%" height="250px" />
 
----
-
-### 💻 About Me
-
-```javascript
-const nyxo = {
-  status: "Undergraduate @ BSc (Hons) Software Engineering",
-  coreSkills: ["Software Architecture", "Web Development", "Problem Solving"],
-  learning: ["Advanced Design Patterns", "Scalable Systems"],
-  hobbies: ["Market Analysis", "Coding", "UI/UX Design"]
-};
+<!-- System Warning ASCII Art -->
+```text
+ 💀 [SYSTEM WARNING: UNAUTHORIZED ACCESS DETECTED] 💀
+ ──────────────────────────────────────────────────
+  ███╗   ██╗██╗   ██╗██╗  ██╗ ██████╗ 
+  ████╗  ██║╚██╗ ██╔╝╚██╗██╔╝██╔═══██╗
+  ██╔██╗ ██║ ╚████╔╝  ╚███╔╝ ██║   ██║
+  ██║╚██╗██║  ╚██╔╝   ██╔██╗ ██║   ██║
+  ██║ ╚████║   ██║   ██╔╝ ██╗╚██████╔╝
+  ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ 
+ ──────────────────────────────────────────────────
+      [IDENTITY]: NYXO | [STATUS]: ENCRYPTED
