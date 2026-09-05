@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iam-nyxo/iam-nyxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=200&section=header&text=Hi%20there,%20I'm%20Nyxo%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-Here are some ideas to get you started:
+### 👨‍💻 Software Engineering Undergraduate & Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=BSc+(Hons)+Software+Engineering;Passionate+Developer;Neo+Wave+Trader)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+Name: Nyxo
+Role: Software Engineering Undergraduate
+Interests: Web Development, Software Architecture, Algorithmic Trading
+Status: Building cool projects & mastering tech stacks
